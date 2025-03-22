@@ -83,6 +83,27 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ## Test the VPN connection with ProtonVPN
 ### Sign up to ProtonVPN
 <p>
-<img src="https://github.com/user-attachments/assets/2b5dd3d8-3673-4b9d-ac5a-2e1e38252164" width="550" alt="Disk Sanitization Steps" />
+<img src="https://github.com/user-attachments/assets/b30c3a62-e817-49a8-bfd8-918cc7796df1" width="550" alt="Disk Sanitization Steps" />
 </p>
+<p>
+<img src="https://github.com/user-attachments/assets/7730c144-edd0-41ca-96e8-9e4ff7b977b8" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/3fb68462-5341-48c8-bcf5-f449b1811a6e" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
 
+### After changing servers, the public IP address will change to the server that is connected with the VPN
+<p>
+<img src="https://github.com/user-attachments/assets/f7df61e9-2056-4e06-a2d8-fee7367496cf" width="550" alt="Disk Sanitization Steps" />
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/b687fa4b-9b77-43bf-81ea-91f0aa798ea1" width="550" alt="Disk Sanitization Steps" />
+</p>
+<br />
+
+---
+
+<br />
+
+# End of Project
