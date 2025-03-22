@@ -78,3 +78,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://github.com/user-attachments/assets/d8979262-a8e8-455c-a7f4-a39a8486dfa7" width="550" alt="Disk Sanitization Steps" />
 </p>
 <br />
+
+
+## Test the VPN connection with ProtonVPN
+### Sign up to ProtonVPN
+<p>
+<img src="https://github.com/user-attachments/assets/2b5dd3d8-3673-4b9d-ac5a-2e1e38252164" width="550" alt="Disk Sanitization Steps" />
+</p>
+
